@@ -8,5 +8,8 @@ CMD:
 bash build.bash
 bash run.bash
 
+When imports have error:
+sudo cp rcamera.h /usr/local/include
+
 VSCODE:
 Through UI and allows debugging
